@@ -11,9 +11,7 @@ background-color: saddlebrown;
 }
 
 button {
-background-color: saddlebrown;
+background-color: navy;
 color: lime;
-border: 2px double lime;
-justify-content: center;
-align-items: center;
+border: 2px solid lime;
 }
