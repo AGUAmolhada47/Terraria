@@ -13,7 +13,7 @@ background-color: saddlebrown;
 button {
 background-color: saddlebrown;
 color: lime;
-border: 2px dotted lime;
+border: 2px dashed lime;
 justify-content: center;
 align-items: center;
 }
