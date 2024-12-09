@@ -1,9 +1,11 @@
 h1 {
-color: golden;
+color: green;
 }
+
 p {
-color: black;
+color: green;
 }
-background {
-color: neon_blue;
+
+body {
+background-color: brown;
 }
