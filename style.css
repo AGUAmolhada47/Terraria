@@ -12,6 +12,7 @@ background-image: url('terraria.jpeg');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
+height: 100vh;
 }
 
 button {
