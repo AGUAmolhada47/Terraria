@@ -1,9 +1,9 @@
 h1 {
-color: saddlebrown;
+color: white;
 }
 
 p {
-color: saddlebrown;
+color: white;
 }
 
 body {
@@ -17,8 +17,8 @@ height: 100vh;
 
 button {
 background-color: white;
-color: saddlebrown;
-border: 2px solid saddlebrown;
+color: black;
+border: 2px solid black;
 }
 
 #progressaofacil {
