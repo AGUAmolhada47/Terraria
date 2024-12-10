@@ -1,17 +1,17 @@
 h1 {
-color: lime;
+color: saddlebrown;
 }
 
 p {
-color: limegreen;
+color: saddlebrown;
 }
 
 body {
-background-color: saddlebrown;
+background-color: limegreen;
 }
 
 button {
 background-color: navy;
-color: lime;
-border: 2px solid lime;
+color: saddlebrown;
+border: 2px solid saddlebrown;
 }
