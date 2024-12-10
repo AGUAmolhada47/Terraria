@@ -20,3 +20,11 @@ background-color: white;
 color: saddlebrown;
 border: 2px solid saddlebrown;
 }
+
+#progressaofacil {
+display: none;
+}
+
+#classes {
+display: none;
+}
