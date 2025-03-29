@@ -22,10 +22,18 @@ color: black;
 border: 2px solid black;
 }
 
-#progressaofacil {
+#meelee {
 display: none;
 }
 
-#classes {
+#mage {
+display: none;
+}
+
+#ranged {
+display: none;
+}
+
+#summoner {
 display: none;
 }
